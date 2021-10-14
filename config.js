@@ -1,5 +1,5 @@
 module.exports = {
-  siteTitle: 'Gatsby Starter Aerial', // <title>
+  siteTitle: 'MAK', // <title>
   manifestName: 'Aerial',
   manifestShortName: 'Portfolio', // max 12 characters
   manifestStartUrl: '/',
@@ -10,18 +10,18 @@ module.exports = {
   pathPrefix: `/gatsby-starter-aerial/`, // This path is subpath of your hosting https://domain/portfolio
   // social
 
-  authorName: 'Anubhav Srivastava',
-  authorHeading: 'Web Developer - JAMStack - Open Source enthusiast',
+  authorName: 'MAK',
+  authorHeading: 'HELLO...',
   authorSocialLinks: [
     {
       icon: 'fa-github',
       name: 'Github',
-      url: 'https://github.com/app-generator/gatsby-html5up-aerial',
+      url: 'https://github.com/7fw',
     },
     {
       icon: 'fa-twitter',
       name: 'Twitter',
-      url: 'https://twitter.com/webappseed',
+      url: 'https://twitter.com/_M3AK_',
     }
   ],
 };
